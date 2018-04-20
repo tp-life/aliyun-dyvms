@@ -1,8 +1,7 @@
 {
-    "name": "aliyuncs/aliyun-dyvms-php-sdk",
+    "name": "wokill/aliyun-dyvms",
     "description": "Aliyun VMS SDK for PHP",
     "keywords": [ "aliyun", "VMS", "sdk" ],
-    "type": "library",
     "license": "Apache-2.0",
     "homepage": "https://www.aliyun.com/product/vms",
     "authors": [
